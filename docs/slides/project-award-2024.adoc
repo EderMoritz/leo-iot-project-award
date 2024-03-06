@@ -26,7 +26,11 @@ image:logo_with_background.png[logo, 80%]
 * Standalone
 * Zentrales Dashboard
 
-== Funktionsweise der Leo Box
+== Leo Box
+
+image:ampel.png[esp, width=100%]
+
+== Programmierung und Mikroprozessor
 
 image:esp.png[esp, width=100%]
 
